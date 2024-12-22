@@ -1,5 +1,7 @@
 ## Hi there 👋
 AUTHORED: SANIYA JENA
+<br>
+This is my first time using GIT BASH.
 <!--
 **saniya-jena/Saniya-Jena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
