@@ -1,5 +1,5 @@
 ## Hi there 👋
-THIS IS AUTHORED BY SANIYA JENA
+AUTHORED: SANIYA JENA
 <!--
 **saniya-jena/Saniya-Jena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
